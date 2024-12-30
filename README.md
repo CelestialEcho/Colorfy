@@ -26,7 +26,7 @@
 
 ## Installation
 
-- **`pip install colorfy`**
+- **`pip install colorfy-py`**
 - Download the file called **colorfy** from **include** folder.
 
 ---
