@@ -33,7 +33,7 @@
 
 ## :warning: Warning :warning:
 :warning: Warning: Some features could not be used in Windows, for example Windows does not support Stylist's features such as **BOLD** style.
-:exclamation: Info: To enable Stylist's features in **Windows Console** you have to **initialize colorfy**:
+:warning: Info: To enable Stylist's features in **Windows Console** you have to **initialize colorfy**:
 ```python
 from colorfy import Colorfy
 
