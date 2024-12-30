@@ -3,7 +3,7 @@
     <img 
       src="./img/README/colorfy-logo_256x256_text.png" 
       alt="Colorfy Logo" 
-      width="256" 
+      width="512" 
       style="position: relative; top: -10px; left: -10px;">
     <div>
       <h1 style="margin: 0;">Colorfy</h1>
