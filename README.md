@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img 
-      src="./img/README/colorfy-logo_256x256_text.png" 
+      src="./img/README/colorfy-logo_512x512.png" 
       alt="Colorfy Logo" 
       width="100" 
       style="position: relative; top: -10px; left: -10px;">
