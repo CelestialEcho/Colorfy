@@ -64,11 +64,11 @@ from colorfy import Colorfy
 
 #applying HEX color
 some_color = Colorfy("#FF5733")
-print(some_color.apply("Some color | example 1 " + some_color.get_hex())
+print(some_color.apply("Some color | example 1 " + some_color.hex))
 
 #applying color using RGBA
-another_color = Colorfy((255, 200, 0, 255))
-print(another_color.apply("Some color | example 2 " + some_color.get_hex())
+another_color = Colorfy((255, 200, 133, 255))
+print(another_color.apply("Some color | example 2 " + another_color.hex))
 ```
 ![img_example1](./img/CODESNIP/img_example1.jpg)
 
