@@ -64,7 +64,7 @@ from colorfy import Colorfy
 
 #applying HEX color
 some_color = Colorfy("#FF5733")
-print(some_color.apply(“Some color | example 1 ” + some_color.get_hex())
+print(some_color.apply("Some color | example 1 " + some_color.get_hex())
 
 #applying color using RGBA
 another_color = Colorfy((255, 200, 0, 255))
