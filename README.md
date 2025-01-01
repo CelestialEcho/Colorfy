@@ -31,14 +31,16 @@
 
 ---
 
-## :warning: Warning :warning:
-:warning: Warning: Some features could not be used in Windows, for example Windows does not support Stylist's features such as **BOLD** style.
-⚠️ Info: To enable Stylist's features in **Windows Console** you have to **initialize colorfy**:
+
+> [!WARNING]
+> Some features could not be used in Windows, for example Windows does not support Stylist's features such as **BOLD** style.
+> To enable Stylist's features in **Windows Console** you have to **initialize colorfy**:
 ```python
 from colorfy import Colorfy
 
 Colorfy.init()
 ```
+
 
 I have been using **Alpine Linux**, for showcase, so I **did not use** colorfy initialization
 
