@@ -102,7 +102,7 @@ print(Colorfy(Palette.Catppuccin.Latte.SAPPHIRE).apply("██ # SAPPHIRE"))
 ---
 
 ## TODO
-- [ ] Refactor some parts
+- [*] Refactor some parts
 - [ ] Add EMOJI class to print emojis in Console
 - [ ] Add gradient functions same as in venaxyt/fade library, but also make it flexible, so you can create your own fade colors
 - [ ] Add GitBook documentation
